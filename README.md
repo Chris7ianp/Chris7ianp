@@ -1,7 +1,8 @@
 <div align="center">
   <!--<img src="assets/img/rodney-sostras-logo-cursiva.png" width="600rem" />-->
   
-  <h2>Olá, me chamo Christian Silva, sou Desenvolvedor Back-end</h2>
+  <h2>Olá, me chamo Christian Silva</h2>
+ 
 </div>
 
 Estou focado com aprendizado constante na tecnologia C# .NET,

@@ -1,61 +1,81 @@
 <div align="center">
-  <!--<img src="assets/img/rodney-sostras-logo-cursiva.png" width="600rem" />-->
-  
-  <h2>Olá, me chamo Christian Silva</h2>
- 
+
+# Olá, eu sou o Christian Silva 👋
+
+**Desenvolvedor Full Stack** · Rio de Janeiro, Brasil  
+C# .NET · Angular · PostgreSQL · Docker
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Chris7ianp&style=for-the-badge&color=0e75b6)](https://github.com/Chris7ianp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-christian--1996--paulo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-1996-paulo)
+[![Gmail](https://img.shields.io/badge/Gmail-christian.paulo.rj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.paulo.rj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Chris7ianp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chris7ianp)
+
 </div>
-
-Estou focado com aprendizado constante na tecnologia C# .NET,
-sou desenvolvedor jr na Monte Carlo Joias,
-e atuando como full stack desenvolvendo micros serviços.
-
-
-
-<p align = "center">
-    <img src="https://komarev.com/ghpvc/?username=Chris7ianp&style=for-the-badge" />
-    <a href="https://Chris7ianp.me">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Chris7ianp.me-191919?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/Chris7ianp">
-      <img src="https://img.shields.io/badge/Chris7ianp-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/christian-1996-paulo">
-      <img src="https://img.shields.io/badge/christian-1996-paulo?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:christian.paulo.rj@gmail.com">
-      <img src="https://img.shields.io/badge/-christian.paulo.rj@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
-</p>
-
-### 🤩 Tecnologias que tenho domínio
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-
-### 📚 Tecnologias que estou aprimorando
-
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 
 ---
 
+## 🚀 Sobre mim
+
+Desenvolvedor Full Stack com foco em **C# .NET** no backend e **Angular** no frontend, atuando na construção de microsserviços e sistemas web escaláveis. Atualmente trabalhando como desenvolvedor na **Monte Carlo Joias** e cursando **Descomplica Faculdade Digital**.
+
+- 🔭 Desenvolvendo o **[Oficina](https://github.com/Chris7ianp/Oficina-Angular-v2)** — sistema de gerenciamento de oficinas (Angular + .NET + PostgreSQL + Docker)
+- 🌱 Aprimorando conhecimentos em **Angular**, **Docker** e **arquitetura de microsserviços**
+- 🎓 Graduando em **Descomplica Faculdade Digital**
+- 📍 Baseado no **Rio de Janeiro, RJ**
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Backend & Banco de Dados
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Projeto em Destaque
+
+### 🔧 [Oficina — Sistema de Gerenciamento de Oficinas](https://github.com/Chris7ianp/Oficina-Angular-v2)
+
+Sistema web completo para gestão de oficinas mecânicas, desenvolvido com arquitetura full stack moderna.
+
+- **Frontend:** Angular + TypeScript
+- **Backend:** C# .NET (API REST)
+- **Banco de dados:** PostgreSQL
+- **Infraestrutura:** Docker, VPS, Nginx, SSL (Certbot)
+- **Deploy:** CI/CD manual via Git + Docker Compose
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris7ianp&layout=compact&langs_count=5&cache_seconds=86400&theme=vue" />
-  <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris7ianp&theme=vue"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris7ianp&layout=compact&langs_count=6&cache_seconds=86400&theme=vue" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris7ianp&theme=vue"/>
 </p>
 
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chris7ianp" /> -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Chris7ianp.Chris7ianp) -->
-<!-- ![](https://github-readme-stats-eight-theta.vercel.app/api?username=Chris7ianp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris7ianp&layout=compact&langs_count=5&cache_seconds=86400&theme=github_dark) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chris7ianp&theme=github_dark) -->
+---
+
+<div align="center">
+  <i>Sempre aprendendo, sempre construindo. 🚀</i>
+</div>

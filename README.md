@@ -16,11 +16,11 @@ C# .NET · Angular · PostgreSQL · Docker
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Full Stack com foco em **C# .NET** no backend e **Angular** no frontend, atuando na construção de microsserviços e sistemas web escaláveis. Atualmente trabalhando como desenvolvedor na **Monte Carlo Joias** e cursando **Descomplica Faculdade Digital**.
+Desenvolvedor Full Stack com foco em **C# .NET** no backend e **Angular** no frontend, atuando na construção de microsserviços e sistemas web escaláveis. Atualmente trabalhando como desenvolvedor na **Elaw Tecnologia** e cursando **Pós Graduação na UNOPAR**.
 
-- 🔭 Desenvolvendo o **[Oficina](https://github.com/Chris7ianp/Oficina-Angular-v2)** — sistema de gerenciamento de oficinas (Angular + .NET + PostgreSQL + Docker)
+- 🔭 Desenvolvendo o **[Oficina](sk.cgestor.com.br)** — sistema de gerenciamento de oficinas (Angular + .NET + PostgreSQL + Docker)
 - 🌱 Aprimorando conhecimentos em **Angular**, **Docker** e **arquitetura de microsserviços**
-- 🎓 Graduando em **Descomplica Faculdade Digital**
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
 - 📍 Baseado no **Rio de Janeiro, RJ**
 
 ---
@@ -55,7 +55,7 @@ Desenvolvedor Full Stack com foco em **C# .NET** no backend e **Angular** no fro
 
 ## 📌 Projeto em Destaque
 
-### 🔧 [Oficina — Sistema de Gerenciamento de Oficinas](https://github.com/Chris7ianp/Oficina-Angular-v2)
+### 🔧 [Oficina — Sistema de Gerenciamento de Oficinas](sk.cgestor.com.br)
 
 Sistema web completo para gestão de oficinas mecânicas, desenvolvido com arquitetura full stack moderna.
 

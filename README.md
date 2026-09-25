@@ -1,81 +1,270 @@
 <div align="center">
 
-# Olá, eu sou o Christian Silva 👋
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0EFFB0&height=200&section=header&text=Christian%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%2B%20Angular&descAlignY=55&descSize=18"
+  width="100%"
+/>
 
-**Desenvolvedor Full Stack** · Rio de Janeiro, Brasil  
-C# .NET · Angular · PostgreSQL · Docker
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=0EFFB0&center=true&vCenter=true&width=800&lines=Construindo+SaaS+multi-tenant+do+zero+ao+deploy;C%23+.NET+%2B+Angular+%2B+PostgreSQL+%2B+Docker;Do+c%C3%B3digo+%C3%A0+infraestrutura+em+produ%C3%A7%C3%A3o"
+  alt="Typing SVG"
+/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Chris7ianp&style=for-the-badge&color=0e75b6)](https://github.com/Chris7ianp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-christian--1996--paulo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-1996-paulo)
-[![Gmail](https://img.shields.io/badge/Gmail-christian.paulo.rj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.paulo.rj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Chris7ianp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chris7ianp)
+<br/>
+
+<a href="https://www.linkedin.com/in/christian-1996-paulo">
+  <img src="https://img.shields.io/badge/LinkedIn-Christian%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:christian.paulo.rj@gmail.com">
+  <img src="https://img.shields.io/badge/Email-christian.paulo.rj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://cgestor.com.br/">
+  <img src="https://img.shields.io/badge/Cgestor-0EFFB0?style=for-the-badge&logo=googlechrome&logoColor=000000" />
+</a>
+
+<a href="https://github.com/Chris7ianp">
+  <img src="https://komarev.com/ghpvc/?username=Chris7ianp&style=for-the-badge&color=0EFFB0&label=PROFILE%20VIEWS" />
+</a>
 
 </div>
 
----
-
-## 🚀 Sobre mim
-
-Desenvolvedor Full Stack com foco em **C# .NET** no backend e **Angular** no frontend, atuando na construção de microsserviços e sistemas web escaláveis. Atualmente trabalhando como desenvolvedor na **Elaw Tecnologia** e cursando **Pós Graduação na UNOPAR**.
-
-- 🔭 Desenvolvendo o **[Oficina](sk.cgestor.com.br)** — sistema de gerenciamento de oficinas (Angular + .NET + PostgreSQL + Docker)
-- 🌱 Aprimorando conhecimentos em **Angular**, **Docker** e **arquitetura de microsserviços**
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
-- 📍 Baseado no **Rio de Janeiro, RJ**
+<br/>
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 👨‍💻 Sobre mim
 
-### Backend & Banco de Dados
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+Sou **Desenvolvedor Full Stack**, com foco em **C# / .NET** e desenvolvimento de aplicações web.
+
+Atualmente atuo como desenvolvedor na **Elaw Tecnologia**, trabalhando principalmente com sustentação, evolução e manutenção de sistemas.
+
+Além da experiência profissional, gosto de transformar ideias em projetos reais, desenvolvendo aplicações completas desde a modelagem do banco de dados até o deploy em ambiente de produção.
+
+- 💻 Desenvolvimento backend com **C# e .NET**
+- 🌐 Desenvolvimento frontend com **Angular**
+- 🗄️ Experiência com **SQL Server e PostgreSQL**
+- 🐳 Containerização utilizando **Docker**
+- 🌎 Deploy e administração de aplicações em **VPS**
+- 🔐 APIs REST, autenticação e integração entre sistemas
+- 🏗️ Clean Architecture e organização de projetos
+- ⚡ Processamento assíncrono e mensageria
+- 🚀 Desenvolvimento de projetos próprios e soluções para clientes
+
+<br/>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs&theme=dark" />
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### DevOps & Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+
+### DevOps & Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark" />
+
+</div>
+
+<br/>
 
 ---
 
-## 📌 Projeto em Destaque
+## 🚀 Projetos em destaque
 
-### 🔧 [Oficina — Sistema de Gerenciamento de Oficinas](sk.cgestor.com.br)
+<table width="100%">
 
-Sistema web completo para gestão de oficinas mecânicas, desenvolvido com arquitetura full stack moderna.
+<tr>
 
-- **Frontend:** Angular + TypeScript
-- **Backend:** C# .NET (API REST)
-- **Banco de dados:** PostgreSQL
-- **Infraestrutura:** Docker, VPS, Nginx, SSL (Certbot)
-- **Deploy:** CI/CD manual via Git + Docker Compose
+<td width="100%">
+
+### 🔧 Cgestor 
+🔒 Repositório privado
+
+**Sistema multi-tenant de gestão para oficinas mecânicas**
+
+Projeto desenvolvido para gerenciamento de oficinas, envolvendo diferentes áreas do negócio.
+
+O projeto contempla desenvolvimento de **backend, frontend, banco de dados, autenticação, multi-tenancy e infraestrutura**, incluindo deploy em VPS.
+
+**Tecnologias:**
+
+`Angular` `C#` `.NET` `PostgreSQL` `Docker` `Nginx` `Multi-tenant`
+
+<br/>
+
+<a href="https://sk.cgestor.com.br">
+  <img src="https://img.shields.io/badge/🌎%20Ver%20produto-0EFFB0?style=for-the-badge&logoColor=black" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🥋 GerenciamentoAcademiaLutas 
+🔒 Repositório privado
+
+**Sistema de gerenciamento para academia de artes marciais**
+
+Sistema desenvolvido para controle de alunos, mensalidades e informações administrativas.
+
+Também possui integração para envio de notificações relacionadas a pagamentos.
+
+**Tecnologias:**
+
+`.NET` `PostgreSQL` `REST API` `WhatsApp Integration`
+
+<a href="https://parioca.cgestor.com.br/">
+  <img src="https://img.shields.io/badge/🌎%20Ver%20produto-0EFFB0?style=for-the-badge&logoColor=black" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📦 PedidoAsync
+
+**Sistema de pedidos com processamento assíncrono**
+
+Projeto desenvolvido para estudar e aplicar conceitos de **arquitetura limpa, mensageria e processamento assíncrono** utilizando RabbitMQ.
+
+A solução foi estruturada em múltiplos projetos seguindo princípios de separação de responsabilidades.
+
+**Tecnologias:**
+
+`C#` `.NET` `ASP.NET Core` `RabbitMQ` `MongoDB` `Clean Architecture`
+
+<br/>
+
+<a href="https://github.com/Chris7ianp/PedidoAsync">
+  <img src="https://img.shields.io/badge/📂%20Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+---
+
+## 🏗️ Arquitetura & Desenvolvimento
+
+Tenho estudado e aplicado conceitos relacionados a:
+
+<div align="center">
+
+| Área | Tecnologias / Conceitos |
+|---|---|
+| Backend | C#, .NET, ASP.NET Core |
+| APIs | REST, HTTP, Swagger/OpenAPI |
+| Arquitetura | Clean Architecture, SOLID, DDD |
+| Banco de Dados | SQL Server, PostgreSQL, MongoDB |
+| Mensageria | RabbitMQ |
+| ORM | Entity Framework Core |
+| Frontend | Angular, TypeScript, JavaScript |
+| Infraestrutura | Docker, Nginx, Linux, VPS |
+| Versionamento | Git, GitHub |
+| Segurança | JWT, autenticação e autorização |
+
+</div>
+
+<br/>
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+C# / .NET
+├── Clean Architecture
+├── SOLID
+├── Design Patterns
+├── Entity Framework Core
+├── APIs REST
+├── Testes automatizados
+└── Async / Await
+
+Arquitetura e Infraestrutura
+├── Docker
+├── Linux
+├── Nginx
+├── CI/CD
+├── VPS
+└── Deploy em produção
+
+Mensageria
+├── RabbitMQ
+├── Processamento assíncrono
+└── Event-driven architecture
+
+Frontend
+├── Angular
+├── TypeScript
+└── Integração com APIs
+```
+
+<br/>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris7ianp&layout=compact&langs_count=6&cache_seconds=86400&theme=vue" />
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris7ianp&theme=vue"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chris7ianp&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=0EFFB0&icon_color=0EFFB0&text_color=C9D1D9&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chris7ianp&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=0EFFB0&fire=0EFFB0&currStreakLabel=0EFFB0" height="165"/>
+
+<img src="https://github-readme-trophy.vercel.app/?username=Chris7ianp&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=3&title=Commits,Followers,PullRequest" />
+
+</div>
+
+<br/>
 
 ---
 
+## 📫 Contato
+
 <div align="center">
-  <i>Sempre aprendendo, sempre construindo. 🚀</i>
+
+**Aberto a novas oportunidades, freelas e parcerias — vamos conversar!**
+
+<a href="https://www.linkedin.com/in/christian-1996-paulo">
+  <img src="https://img.shields.io/badge/LinkedIn-Christian%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:christian.paulo.rj@gmail.com">
+  <img src="https://img.shields.io/badge/Email-christian.paulo.rj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Chris7ianp">
+  <img src="https://img.shields.io/badge/GitHub-Chris7ianp-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EFFB0,100:0F2027&height=100&section=footer"/>
+
 </div>

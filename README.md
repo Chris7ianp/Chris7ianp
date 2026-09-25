@@ -69,8 +69,10 @@ Além da experiência profissional, gosto de transformar ideias em projetos reai
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
 
 ### Banco de Dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+
 
 ### DevOps & Infraestrutura
 
@@ -251,7 +253,7 @@ Frontend
 
 **Aberto a novas oportunidades, freelas e parcerias — vamos conversar!**
 
-<a href="https://www.linkedin.com/in/christian-1996-paulo">
+<a href="https://www.linkedin.com/in/christian-1996-paulo"> 
   <img src="https://img.shields.io/badge/LinkedIn-Christian%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
